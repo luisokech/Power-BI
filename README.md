@@ -1,5 +1,4 @@
-# Power-BI
-## Guide to Power BI 
+# Guide to Power BI 
 ![Screenshot 2024-09-27 121311](https://github.com/user-attachments/assets/cf33c9b0-7179-4dc9-891f-cc2fc6799046)
 
 
